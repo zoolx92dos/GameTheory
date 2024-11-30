@@ -17,3 +17,68 @@ Items Covered: backward induction, subgame perfect equilibrium, credible threats
 Chapter 3: Advanced Strategic Form Games
 Generalized. Example: Does a striker kick left more frequently as his accuracy improves on the left side? Items covered: comparative statics, knife-edge equilibria, and symmetric, zero-sum games. 
 
+
+Prisoner's Dilemma and Strict Dominance
+________________________________________
+
+The situation
+Two suspects are arrested. 
+The police thinks that they were trying to rob a store. But the cops can only prove that the suspects were trespassing. 
+Thus, the police need one of the criminals to rat out the other. 
+
+The Potential Deal
+If no one confesses to roberry, the police can only charge the prisoners for trespassing. Punishment: 1 month in jail each. 
+If one confesses and the other doesn't, the police will be lenient on the rat and severely punish the quiet one. Punishment: 12 months in jail for the quiet one; 0 months for the rat. 
+If both confesses, the police punishes both of them equally. Punishment: 8 months in jail each. 
+
+The question
+Suppose the thieves only want to minimize the number of months they spend in jail. Should they confess to the police?
+
+Prisoner's Dilemma
+
+                                    Player 2
+
+                          Keep Quiet        Confess
+
+         Keep Quiet        -1, -1           -12, 0
+
+Player 1    
+          Confess          0, -12            -8, -8
+
+
+Strict Dominance
+Strategy x strictly dominates strategy y for a player if x generated a greater payoff than y regardless of what the other players do. 
+Rational players never play strictly dominated strategies. Why play y when you can play x instead ?
+
+
+Iterated Elimination of Strictly Dominated Strategy
+___________________________________________________
+
+Prisoner's Dilemma
+
+                                    Player 2
+
+                          Keep Quiet        Confess
+
+         Keep Quiet        -1, -1           -12, 0
+
+Player 1    
+          Confess          0, -12            -8, -8
+
+Both confess - the strategy
+
+The other player might change the strategy. 
+
+IEDS Game
+
+                                    Player 2
+                        Left       Center       Right
+              Up        13,3        1,4          7,3
+Player 1    Middle       4,1        3,3          6,2
+             Down       -1,9        2,8          8,-1
+
+
+Iterated Elimination of Strictly Dominated Strategies (IESDS)If you ever see a strictly dominated strategy, eliminate it immediately. Order does not matter. 
+If IESDS leads to a single outcome whether you eliminate strategy #1 or strategy #2 first. 
+
+

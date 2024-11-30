@@ -1,0 +1,19 @@
+Book Followed - Game Theory 101: The complete Book - William Spaniel
+
+What is Game Theory?
+The Study of strategically interdependent behavior. Strategic interdependence - what I do affects your outcomes and what you do affects my outcomes. Not just about winning and losing (though it could be).
+
+1. The logic of strategically interdependent situations gets extremely complicated extremely fast. Game theory gives us "accounting" tools. 
+2. Game theory allows us to quicly draw parallels from one situation to another. This will allow you to think on your feet much better than you can today. 
+
+Chapter 1: The Basics
+Simultaneous move games. Examples: Soccer penalty kicks, prison interrogation, deciding wether to stop or drive at a spotlight. 
+Items Covered: strict dominance, iterated elimination of strictly dominated strategies, pure strategy Nash equilibrium, best responses, mixed strategy Nash equilibrium, weak dominance
+
+Chaper 2: Extensive Form Games
+Games where players take turns moving. Examples: war, invasion plans, police searches. 
+Items Covered: backward induction, subgame perfect equilibrium, credible threats, tying hands, commitment problems, forward induction. 
+
+Chapter 3: Advanced Strategic Form Games
+Generalized. Example: Does a striker kick left more frequently as his accuracy improves on the left side? Items covered: comparative statics, knife-edge equilibria, and symmetric, zero-sum games. 
+
